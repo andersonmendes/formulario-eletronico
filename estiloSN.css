@@ -1,0 +1,45 @@
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+#bloco1 {
+	width: 48%;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	display: table-cell;
+	border: 1% solid red;
+}
+
+#bloco2 {
+	width: 38%;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	border: 1% solid purple;
+}
+
+.linha {
+	padding-bottom: 15px;
+            border-bottom-style: solid;
+            border-bottom-width: 2px;
+}
+
+#vem {
+	border: 2px solid red;
+}
+
+#bloco3 {
+	width: 30%;
+	float: left;
+	border: 0.8% solid green;
+}
+
+#bloco4 {
+	width: 40%;
+	float: left;
+	border: 0.8% solid cyan;
+}
+
